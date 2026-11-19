@@ -33,4 +33,5 @@ Portfolio project: a disaster-preparedness shopping app. Users pick a disaster c
 
 ## Progress
 - [x] Folder created, git initialized (branch `main`)
-- [ ] Step 1: scaffold
+- [x] Step 1: scaffold (Vite, Tailwind theme, Redux store, React Router placeholder routes, MSW with test `/api/hello` handler)
+- [ ] Step 2: mock data + MSW handlers
